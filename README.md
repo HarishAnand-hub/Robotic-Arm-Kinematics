@@ -101,3 +101,9 @@ Future work will focus on experimental validation with the physical Dobot, exten
 
 1. MATLAB Robotics Toolbox, MathWorks. https://www.mathworks.com/help/robotics/
 2. Dobot, "Dobot Magician Lite." https://www.dobot.cc
+
+## Demo Images
+
+![Forward Kinematics](forward_kinematics.png)
+
+![Inverse Kinematics](inverse_kinematics.png)
